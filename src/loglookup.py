@@ -1,7 +1,6 @@
-#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
-#  callsign-lookup-0_2.py
+#  loglookup.py
 #  
 #  Copyright 2017 Bill Hammond <ka1ssr@ernie>
 #  
